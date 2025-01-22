@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/library.png
+image: img/library.jpg
 title: "Library Database Simulator"
 date: 2023
 published: true
