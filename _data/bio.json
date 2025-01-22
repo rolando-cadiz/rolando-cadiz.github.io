@@ -36,7 +36,7 @@
       "studyType": "B.S.",
       "startDate": "August, 2022",
       "endDate": "Present",
-      "courses": [ "Data Structure and Algorithms", "Sofware Engineering"
+      "courses": [ "Data Structures and Algorithms", "Sofware Engineering"
       ]
     }
   ],
@@ -45,23 +45,23 @@
       "company": "Tanaka of Tokyo",
       "position": "Busser",
       "website": "",
-      "startDate": "January, 2022",
+      "startDate": "01/2022",
       "endDate": "Present",
       "summary": "Clearing tables and supporting the server/chef staff",
       "highlights": [
-        "Worked in a team of three to clear and reset a full table in under one minute",
-        "Worked open to close on busy holidays with no sleep"
+        "Worked in a team of three to clear and reset tables in under one minute",
+        "Communicated with the front staff team to coordinate strategies to maintain reservation times"
       ]
     },
     {
       "company": "Papa Johns Pizza",
       "position": "Delivery Driver",
       "website": "",
-      "startDate": "April, 2017",
-      "endDate": "November, 2021",
-      "summary": "Delivered orders to customers within specified deadlines",
+      "startDate": "04/2017",
+      "endDate": "11/2021",
+      "summary": "Delivered orders to customers within specified deadlines and helping the in-store staff with making customer orders",
       "highlights": [
-        "Cut open my finger on the vegetable slicer and continued to work a 13-hour shift",
+        "Deliver customer orders in a timely fashion",
         "Answer phones and take customer orders with immense precision"
       ]
     }
@@ -69,7 +69,7 @@
   "awards": [
     {
       "title": "CNS Native Hawaiian Scholarship",
-      "date": "2024-2025 School Year",
+      "date": "24-25 School Year",
       "awarder": "College of Natural Sciences",
       "summary": "Scholarships awarded to native Hawaiian students who maintain a minimum GPA of 3.0"
     }
