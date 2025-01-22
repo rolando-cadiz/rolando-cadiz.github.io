@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/cplusplus.png
-title: "Hotel Database Simulator"
+image: img/hotel.png
+title: "Hotel Booking System Simulator"
 date: 2023
 published: true
 labels:
