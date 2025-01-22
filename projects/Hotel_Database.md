@@ -9,7 +9,7 @@ labels:
   - Database
   - Simulation
   - C++
-summary: "My team and I created a C++ program to simulate a hotel database."
+summary: "My team and I created a C++ program to simulate a hotel booking system."
 ---
 
 In my programming structures class, I worked on a team of six students to create and implement a simulation of a system that mirrors software used in the hotel industry. This simulator included functionality such as
