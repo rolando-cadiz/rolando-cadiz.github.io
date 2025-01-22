@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cplusplus.png
+image: img/library.png
 title: "Library Database Simulator"
 date: 2023
 published: true
