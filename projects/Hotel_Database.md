@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/cplusplus.png
 title: "Hotel Database Simulator"
 date: 2023
 published: true
