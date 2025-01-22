@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hotel.png
+image: img/hotel.jpg
 title: "Hotel Booking System Simulator"
 date: 2023
 published: true
