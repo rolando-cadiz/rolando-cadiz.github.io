@@ -4,7 +4,7 @@ type: project
 image: img/library.jpg
 title: "Library Database Simulator"
 date: 2023
-published: false
+published: true
 labels:
   - Database
   - Simulation
