@@ -21,7 +21,7 @@ jump right into it. Things like declaring variables, creating functions, calling
 FreeCodeCamp's Legacy JavaScript Algorithms and DataStructures course. And, even though there are a few differences, I breezed through all 113 learning modules in just a few hours.
 
 ## New Contender For My Top Three
-I enjoy using Typescript a lot and now, I'm thinking it might replace Python's spot in my list of top three favorite programming languages, the other two being Java and C++. I think I see a pattern here (hint: it's my attraction OOP!). Although my experience with this language is very limited,
+I enjoy using Typescript a lot and now. I'm thinking it might replace Python's spot in my list of top three favorite programming languages, the other two being Java and C++. I think I see a pattern here (hint: it's my attraction OOP!). Although my experience with this language is very limited,
 I can already tell that it's a very versatile language. As a prospecting software developer, I believe going in-depth with Typescript will be beneficial to me since one aspect of this language is that it's flexible in its typing system, being that it's very suitable for web development and user 
 interactions where inputs can be unpredictable.
 
