@@ -25,13 +25,13 @@ I enjoy using Typescript a lot and now. I'm thinking it might replace Python's s
 I can already tell that it's a very versatile language. As a prospecting software developer, I believe going in-depth with Typescript will be beneficial to me since one aspect of this language is that it's flexible in its typing system, being that it's very suitable for web development and user 
 interactions where inputs can be unpredictable.
 
-## My Experience Using Typescript and WOD's
+## My Experience Using Typescript and WODs
 In my class, ICS 314 - Software Engineering I, we have mini coding practice sessions called WODs (Workouts of the Day). During these, we are timed and given a rating based on our finish time. In my first practice WOD, I was able to finish a simple program on my third attempt with a time of 3:30, a very decent time.
 One reason I was able to achieve this is because of how easy it felt to code in Typescript. For our first non-practice WOD however, I wasn't able to finish in the allotted time. This is because there were a few syntax issues that I had to spend time looking up as well as some logical errors in my code. I 
 think the WODs are helping me become a better developer because I am forced to code faster while under pressure. I'm hoping in the future, as I learn more advanced Typescript syntax and logic, I can pass my WODs with flying colors.
 
 ## Final thoughts
-As I progress on my journey to become a software developer, I hope to be able to master not only Typescript but other programming languages too. Typescript is but one of the many tools that will be necessary for me to learn in order to reach success.
+As I progress on my journey to become a software developer, I hope to be able to master not only Typescript but other programming languages too. Typescript is but one of the many tools that will be necessary for me to learn to reach success.
 
 
 
