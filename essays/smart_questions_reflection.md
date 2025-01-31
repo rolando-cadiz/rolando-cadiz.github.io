@@ -10,7 +10,7 @@ labels:
   - Communication
   - Deep thinking
 ---
-<img width="1000px" class="rounded float-start pe-4" src="../img/headerimage.jpg"><br>
+<img width="600px" class="rounded float-start pe-4" src="../img/headerimage.jpg"><br>
 
 To employers in the software development industry, communicating effectively is a valued skill they look for in every potential candidate. A one-man army that can out-code everyone in the room is useless if they can't effectively communicate information between colleagues and managers. 
 thus, it's important to know what effective communication looks like. Things like requesting specific tools/technology, organizing a strategy, gathering information from sources to solve a problem, etc. These are all basic forms of effective communication. In particular, being able to ask
@@ -35,9 +35,9 @@ It is advised that before asking a question, you should search for your answer v
   (Raymond, 2014). 
 
 ## Asking a Smart Question
-<img width="300px" class="rounded float-start pe-4" src="../img/smartquestion.jpg"><br>
+<img width="300px" class="rounded float-start pe-4" src="../img/smartquestion.jpg">
 
-Eric Raymond's essay includes a lengthy guideline to assist those who read it an optimal way to ask a question. If you follow them, you are more likely to find an answer. Let's take a look at [this StackOverflow question](https://stackoverflow.com/questions/79401857/jenkins-offline-and-plugins-installation-failed-issue-in-azure-windows-10-vm) to see if it was asked smartly.
+Eric Raymond's essay includes a lengthy guideline to assist those who read it an optimal way to ask a question. If you follow them, you are more likely to find an answer. Let's take a look at [this StackOverflow question](https://stackoverflow.com/questions/79401857/jenkins-offline-and-plugins-installation-failed-issue-in-azure-windows-10-vm) to see if it was asked smartly.<br><br><br>
 
 
 # Jenkins offline and plugins installation failed issue in Azure Windows 10 VM  
