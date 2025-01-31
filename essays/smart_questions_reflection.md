@@ -37,7 +37,7 @@ It is advised that before asking a question, you should search for your answer v
 Eric Raymond's essay includes a lengthy guideline to assist those who read it an optimal way to ask a question. If you follow them, you are more likely to find an answer. Let's take a look at [this StackOverflow question](https://stackoverflow.com/questions/79401857/jenkins-offline-and-plugins-installation-failed-issue-in-azure-windows-10-vm) to see if it was asked smartly.
 
 
- - Jenkins offline and plugins installation failed issue in Azure Windows 10 VM - 
+# Jenkins offline and plugins installation failed issue in Azure Windows 10 VM  
 
 I tried installing Jenkins on my Windows 10 Azure VM, but during the initial configuration, it shows that Jenkins is offline just before the plugins installation page. enter image description here
 
