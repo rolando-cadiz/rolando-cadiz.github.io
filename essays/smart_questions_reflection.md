@@ -17,7 +17,7 @@ thus, it's important to know what effective communication looks like. Things lik
 SMART questions will improve your chances at information gathering and will more often than not lead you to a fix for your specific problem. I continue this writing by showing you two example questions, one being the smart way (as written about [here](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Raymond in 'How to ask questions the smart way'), and one being the not-so-smart way. These questions were gathered from StackOverflow and links will be provided to you so you may explore the full questions and their responses.
 
 ## Before Asking a Question
-It is advised that before asking a question, you should search for your answer via these methods:
+It is advised that before asking a question, you should search for your answer via these methods:<br>
   "
   - Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
 
