@@ -36,8 +36,8 @@ It is advised that before asking a question, you should search for your answer v
 ## Asking a Smart Question
 Eric Raymond's essay includes a lengthy guideline to assist those who read it an optimal way to ask a question. If you follow them, you are more likely to find an answer. Let's take a look at [this StackOverflow question](https://stackoverflow.com/questions/79401857/jenkins-offline-and-plugins-installation-failed-issue-in-azure-windows-10-vm) to see if it was asked smartly.
 
-*Jenkins offline and plugins installation failed issue in Azure Windows 10 VM
 
+ - Jenkins offline and plugins installation failed issue in Azure Windows 10 VM - 
 
 I tried installing Jenkins on my Windows 10 Azure VM, but during the initial configuration, it shows that Jenkins is offline just before the plugins installation page. enter image description here
 
@@ -49,7 +49,9 @@ enter image description here enter image description here
 
 Could someone help me rectify this issue?
 
-Jenkins version : Jenkins 2.479.3 LTS Java : open jdk version 17.0.14*
+Jenkins version : Jenkins 2.479.3 LTS Java : open jdk version 17.0.14
+
+
 
 The asker's header is meaningful and specific. In Raymond's essay, he mentions "object-deviation", a method of generating a header in a way that shows what is having the issue (object) and what is the issue (deviation). Although a question is not asked directly, we as a reader can clearly understand 
 the initial issue that the asker is facing is a failed plugin installation in an Azure Windows 10 virtual machine. As we look at the body of the question itself, the asker shows that they have tried referencing other sources for information before asking for help, thus we know that they are not, in Raymond's words, a "lazy sponge".
