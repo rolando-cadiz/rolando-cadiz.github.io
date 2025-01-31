@@ -35,7 +35,7 @@ It is advised that before asking a question, you should search for your answer v
 
 ## Asking a Smart Question
 <img width="300px" class="rounded float-start pe-4" src="../img/smartquestion.jpg">
-Eric Raymond's essay includes a lengthy guideline to assist those who read it an optimal way to ask a question. If you follow them, you are more likely to find an answer. Let's take a look at [this StackOverflow question](https://stackoverflow.com/questions/79401857/jenkins-offline-and-plugins-installation-failed-issue-in-azure-windows-10-vm) to see if it was asked smartly.
+Eric Raymond's essay includes a lengthy guideline to assist those who read it an optimal way to ask a question. If you follow them, you are more likely to find an answer. Let's take a look at [this](https://stackoverflow.com/questions/79401857/jenkins-offline-and-plugins-installation-failed-issue-in-azure-windows-10-vm) StackOverflow question to see if it was asked smartly.
 
 
 # Jenkins offline and plugins installation failed issue in Azure Windows 10 VM  
