@@ -18,7 +18,8 @@ SMART questions will improve your chances at information gathering and will more
 
 ## Before Asking a Question
 It is advised that before asking a question, you should search for your answer via these methods:
-  "- Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
+  "
+  - Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
 
   - Try to find an answer by searching the Web.
 
