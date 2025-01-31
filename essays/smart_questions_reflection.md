@@ -12,10 +12,9 @@ labels:
 ---
 <img width="600px" class="rounded float-start pe-4" src="../img/headerimage.jpg">
 
-<p>To employers in the software development industry, communicating effectively is a valued skill they look for in every potential candidate. A one-man army that can out-code everyone in the room is useless if they can't effectively communicate information between colleagues and managers. 
+To employers in the software development industry, communicating effectively is a valued skill they look for in every potential candidate. A one-man army that can out-code everyone in the room is useless if they can't effectively communicate information between colleagues and managers. 
 thus, it's important to know what effective communication looks like. Things like requesting specific tools/technology, organizing a strategy, gathering information from sources to solve a problem, etc. These are all basic forms of effective communication. In particular, being able to ask
-SMART questions will improve your chances at information gathering and will more often than not lead you to a fix for your specific problem. I continue this writing by showing you two example questions, one being the smart way (as written about [here](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Raymond in 'How to ask questions the smart way'),
-and one being the not-so-smart way. These questions were gathered from StackOverflow and links will be provided to you so you may explore the full questions and their responses.</p>
+SMART questions will improve your chances at information gathering and will more often than not lead you to a fix for your specific problem. I continue this writing by showing you two example questions, one being the smart way (as written about [here](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Raymond in 'How to ask questions the smart way'), and one being the not-so-smart way. These questions were gathered from StackOverflow and links will be provided to you so you may explore the full questions and their responses.
 
 ## Before Asking a Question
 It is advised that before asking a question, you should search for your answer via these methods:
@@ -36,7 +35,7 @@ It is advised that before asking a question, you should search for your answer v
 
 ## Asking a Smart Question
 <img width="300px" class="rounded float-start pe-4" src="../img/smartquestion.jpg">
-<p>Eric Raymond's essay includes a lengthy guideline to assist those who read it an optimal way to ask a question. If you follow them, you are more likely to find an answer. Let's take a look at [this StackOverflow question](https://stackoverflow.com/questions/79401857/jenkins-offline-and-plugins-installation-failed-issue-in-azure-windows-10-vm) to see if it was asked smartly.</p>
+Eric Raymond's essay includes a lengthy guideline to assist those who read it an optimal way to ask a question. If you follow them, you are more likely to find an answer. Let's take a look at [this StackOverflow question](https://stackoverflow.com/questions/79401857/jenkins-offline-and-plugins-installation-failed-issue-in-azure-windows-10-vm) to see if it was asked smartly.
 
 
 # Jenkins offline and plugins installation failed issue in Azure Windows 10 VM  
