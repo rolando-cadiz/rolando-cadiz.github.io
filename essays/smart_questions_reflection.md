@@ -10,8 +10,8 @@ labels:
   - Communication
   - Deep thinking
 ---
-<img width="1000px" class="rounded float-start pe-4" src="../img/headerimage.jpg">
-## ‎ 
+<img width="1000px" class="rounded float-start pe-4" src="../img/headerimage.jpg"><br>
+
 To employers in the software development industry, communicating effectively is a valued skill they look for in every potential candidate. A one-man army that can out-code everyone in the room is useless if they can't effectively communicate information between colleagues and managers. 
 thus, it's important to know what effective communication looks like. Things like requesting specific tools/technology, organizing a strategy, gathering information from sources to solve a problem, etc. These are all basic forms of effective communication. In particular, being able to ask
 SMART questions will improve your chances at information gathering and will more often than not lead you to a fix for your specific problem. I continue this writing by showing you two example questions, one being the smart way (as written about [here](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Raymond in 'How to ask questions the smart way'),
@@ -35,8 +35,8 @@ It is advised that before asking a question, you should search for your answer v
   (Raymond, 2014). 
 
 ## Asking a Smart Question
-<img width="300px" class="rounded float-start pe-4" src="../img/smartquestion.jpg">
-## ‎ 
+<img width="300px" class="rounded float-start pe-4" src="../img/smartquestion.jpg"><br>
+
 Eric Raymond's essay includes a lengthy guideline to assist those who read it an optimal way to ask a question. If you follow them, you are more likely to find an answer. Let's take a look at [this StackOverflow question](https://stackoverflow.com/questions/79401857/jenkins-offline-and-plugins-installation-failed-issue-in-azure-windows-10-vm) to see if it was asked smartly.
 
 
@@ -63,8 +63,8 @@ Furthermore, the asker writes clearly, taking care to write with grammatically c
 chronologically and in a precise manner. They even include an image to show greater detail of the issue. This question follows many of Raymond's points and we can confidently say that this is a smart question!
 
 ## Asking a Dumb Question
-<img width="300px" class="rounded float-start pe-4" src="../img/dumbquestion2.jpg">
-## ‎ 
+<img width="300px" class="rounded float-start pe-4" src="../img/dumbquestion2.jpg"><br>
+
 Perhaps dumb isn't the right word. I should say, there are no real dumb questions; every question is an opportunity for learning and growth. However, there are both good and bad ways to ask a question. [Here is an example](https://stackoverflow.com/questions/40048404/debugserver-died-with-an-exit-status-of-0x00000000) of a poorly posed question.
 
 # debugserver died with an exit status of 0x00000000
