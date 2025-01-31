@@ -61,7 +61,7 @@ Furthermore, the asker writes clearly, taking care to write with grammatically c
 chronologically and in a precise manner. They even include an image to show greater detail of the issue. This question follows many of Raymond's points and we can confidently say that this is a smart question!
 
 ## Asking a Dumb Question
-<img width="300px" class="rounded float-start pe-4" src="../img/dumbquestion2.jpg"><br>
+<img width="300px" class="rounded float-start pe-4" src="../img/dumbquestion2.jpg">
 
 Perhaps dumb isn't the right word. I should say, there are no real dumb questions; every question is an opportunity for learning and growth. However, there are both good and bad ways to ask a question. [Here is an example](https://stackoverflow.com/questions/40048404/debugserver-died-with-an-exit-status-of-0x00000000) of a poorly posed question.
 
