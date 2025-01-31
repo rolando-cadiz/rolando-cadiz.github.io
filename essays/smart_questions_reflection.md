@@ -30,7 +30,7 @@ It is advised that before asking a question, you should search for your answer v
 
   - Try to find an answer by asking a skilled friend.
 
-  - If you're a programmer, try to find an answer by reading the source code."
+  - If you're a programmer, try to find an answer by reading the source code."<br>
   (Raymond, 2014). 
 
 ## Asking a Smart Question
