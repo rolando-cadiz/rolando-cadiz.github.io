@@ -10,7 +10,7 @@ labels:
   - Programming
   - EsLint
 ---
-<img width="600px" class="rounded float-start pe-4" src="../img/code_Spaghet.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/code_Spaghet.jpg">
 Having standards, no matter if it’s regarding a profession or a hobby, allows for one to dedicate more time to focusing on the doing rather than fixing. What I mean is this, would you rather be able to complete a task and have it done in such a way that its context is easily understood by the layman who may 
 come by and view it, or would it be preferable to have to come back and change things around to fit a new piece of information in to provide more context. The former is surely better than the latter. This holds especially true for those who program for a living. Having coding standards greatly reduces the chance 
 that you’ll have to go back and refactor old code and helps the next programmer understand what is going on.
