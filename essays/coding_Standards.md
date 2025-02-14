@@ -21,9 +21,10 @@ parameter inputs. You wouldn’t want someone who is working with your old code 
 
 ## Code Readability V.s. Efficiency 
 Balancing code readability and efficiency is a key challenge in software development. Readable code, with clear variable names/functions, proper indentation, and easy-to-read design, ensures maintainability. However, sometimes performance optimizations require more complex implementations, such as reducing loops 
-and minimizing memory usage. While clean code is easier to debug and extend, highly optimized code can be cryptic and harder to maintain. The key is to strike a balance; and prioritize readability unless performance is a bottleneck. When optimizations are necessary, document the reasoning behind them. Following 
+and minimizing memory usage. While clean code is easier to debug and extend, highly optimized code can be cryptic and harder to maintain. The key is to strike a balance; and prioritize readability unless performance is a bottleneck. When optimizations are necessary, document the reasoning behind them. Following
 best practices like refactoring, modularization, and leveraging built-in language efficiencies ensures code remains both efficient and easy to understand, reducing long-term technical debt and developmental issues.
-Technical Debt
+
+## Technical Debt
 Technical debt accumulates when developers prioritize speed over code quality, often due to tight deadlines or lack of coding standards. Over time, poorly structured code becomes harder to maintain, leading to bugs, inefficiencies, and increased development costs. By following coding standards, teams can minimize 
 technical debt, making sure that code remains readable and more importantly, scalable. Refactoring, or systematically improving existing code without altering its functionality, is essential for managing debt. Regular code reviews, automated testing, and documentation help prevent debt from spiraling out of control. 
 Using standardized code upfront saves time and resources, reducing long-term project risks.
