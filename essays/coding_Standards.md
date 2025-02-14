@@ -29,7 +29,7 @@ technical debt, making sure that code remains readable and more importantly, sca
 Using standardized code upfront saves time and resources, reducing long-term project risks.
 
 ## EsLint
-<img width="300px" class="rounded float-start pe-4" src="../img/smartquestion.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/Es_LINT.png">
 Earlier I mentioned EsLint as a common coding standard that could be used. In my ICS 314 class - Software Engineering, we recently started implementing this coding standard into our class WODs and I can say that it has been a game changer for me. The EsLint extension in Visual Studio Code forces you to conform 
 to a specific standard by treating a break of coding standards as equivalent to a syntax error and shows an error in your code, forcing you to fix it. Humans by nature are adaptive creatures and when faced with a problem, we learn to adapt and overcome it. I’ve noticed that even after a few sessions of using EsLint, 
 I automatically write my code using this new standard without having to be corrected by the IDE. Pair that with the fact that I’m still learning Typescript, it is forcing my brain to use the same part of my brain that learns language syntax. Very cool!
