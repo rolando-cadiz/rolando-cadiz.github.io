@@ -4,7 +4,7 @@ type: essay
 title: "UI/UX Framesworks Are Easy But Hard"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-27
-published: true
+published: false
 labels:
   - UI/UX
   - Frameworks
