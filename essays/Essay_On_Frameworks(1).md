@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "UI/UX Frameworks Are Easy But Hard"
+title: "UI/UX Frameworks: Useful But Deceptively Difficult"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-27
 published: true
