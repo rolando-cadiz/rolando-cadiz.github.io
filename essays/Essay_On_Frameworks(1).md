@@ -12,7 +12,7 @@ labels:
   - CSS
   - HTML
 ---
-<img width="600px" class="rounded float-start pe-4" src="../img/UIUX.png">
+<img width="600px" class="rounded float-start pe-4 ms-auto" src="../img/UIUX.png">
 ## Introduction
 My journey of learning new programming languages has led me through various OOP and function-based languages, and they all felt mostly the same as each other; however
 having recently picked up HTML, CSS, and frameworks like Bootstrap 5, I can say that these are a whole new different kind of hard. At first, HTML seemed fairly simple.
