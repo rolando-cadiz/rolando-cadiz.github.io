@@ -9,7 +9,7 @@ labels:
   - Project estimation
   - Software Engineering
 ---
-<img width="100px" class="rounded float-start pe-4" src="../img/project-estimation.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/project-estimation.png">
 1.How did you make your effort estimates?
 2.Even though your estimates were always off, sometimes way off, was there any benefit from making effort estimates for the issues in advance? If so, what benefits? If not, why not?
 3.Was there any benefit for tracking the actual effort expended on the issues? If so, what benefits? If not, why not? Was there any downside to estimating and tracking your effort? If so what?
