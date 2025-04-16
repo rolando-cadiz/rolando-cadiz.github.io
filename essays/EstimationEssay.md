@@ -10,11 +10,6 @@ labels:
   - Software Engineering
 ---
 <img width="600px" class="rounded float-start pe-4" src="../img/project-estimation.png">
-1.How did you make your effort estimates?
-2.Even though your estimates were always off, sometimes way off, was there any benefit from making effort estimates for the issues in advance? If so, what benefits? If not, why not?
-3.Was there any benefit for tracking the actual effort expended on the issues? If so, what benefits? If not, why not? Was there any downside to estimating and tracking your effort? If so what?
-4.How did you track your actual effort? How accurate do you believe your tracking was?
-5.How much overhead was there in tracking your effort? Did it take up a noticable amount of time or inhibit you working on the project?
 
 At UH Manoa, all students in ICS 314 are required to do a final project with their peers that involves the creation and deployment of a working website. 
 My group decided to work on a website called ArtHub that is designed to facillitate connections between artists as it can be quite difficult for those just geting started
