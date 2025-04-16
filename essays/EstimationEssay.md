@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 <img width="1000px" class="rounded float-start pe-4" src="../img/project-estimation.png">
-
+<br>
 At UH Manoa, all students in ICS 314 are required to do a final project with their peers that involves the creation and deployment of a working website. 
 My group decided to work on a website called ArtHub that is designed to facillitate connections between artists as it can be quite difficult for those just geting started
 to share their works. As part of the final project, the group decided to estimate and track our coding and non-coding times. The benefit of doing so is that
