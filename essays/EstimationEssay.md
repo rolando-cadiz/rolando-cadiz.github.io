@@ -9,7 +9,7 @@ labels:
   - Project estimation
   - Software Engineering
 ---
-<img width="1200px" class="rounded float-start pe-4" src="../img/project-estimation.png">
+<img width="1200px" class="rounded float-center pe-4" src="../img/project-estimation.png">
 <br>
 At UH Manoa, all students in ICS 314 are required to do a final project with their peers that involves the creation and deployment of a working website. 
 My group decided to work on a website called ArtHub that is designed to facillitate connections between artists as it can be quite difficult for those just geting started
