@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Design Patterns and why they matter"
+title: "Design Patterns and Why They Matter"
 # All dates must be YYYY-MM-DD format!
 date: 2025-04-15
 published: true
