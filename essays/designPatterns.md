@@ -9,7 +9,7 @@ labels:
   - Design Patterns
   - Software Engineering
 ---
-<img width="1200px" class="rounded float-center pe-4" src="../img/project-estimation.png">
+<img width="1200px" class="rounded float-center pe-4" src="../img/design.png">
 <br>
 Take a look at any major modern city in the world today; they all have something in common: They are designed to make living among millions of other people possible. Tokyo, for example, has hundreds of thousands, if not more, different buildings all packed tightly together. It has train lines that operate on a tight 
 schedule and can bring people from one half of the city to the other within an hour! How do you think this is done? Well, a group of people who are in charge of city planning must create a plan and a budget to allocate resources towards making the city livable and efficient. A blueprint of sorts. In a way, this is not
