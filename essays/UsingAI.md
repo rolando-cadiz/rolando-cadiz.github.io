@@ -55,3 +55,4 @@ This can easily be done without AI as its really not all that difficult to read 
 I found Co-Pilot to be very useful for fixing ES lint errors and ChatGPT to be not always correct. Because I had used Co-Pilot so much, I learned how to write code in the style that ES lint likes and thus required less help fixing them. This has saved me alot of time and effort fixing linting errors.
 
 ## Other Uses In ICS 314
+AI has been instrumental not just in actual coding but also understanding what being a software engineer actually is and how they do things. I recall asking ChatGPT if my setup for the project is similar to how one working in the software industry would. Thankfully I must have picked up a few things sub-counciously because I was pretty darn close.
