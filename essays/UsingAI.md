@@ -10,7 +10,7 @@ labels:
   - ChatGPT
   - Co-Pilot
 ---
-<img width="600px" class="rounded float-start pe-4 ms-auto" src="../img/UIUX.png">
+<img width="600px" class="rounded float-start pe-4 ms-auto" src="../img/AI.jpg">
 ## Introduction
 The idea of using artificial intelligence (AI) to make mundane day-to-day tasks easier has always been prevalent in modern society.
 However, it is only somewhat recent that AI has taken a foothold in our education system. Gone are the days of using Chegg, StackOverflow, online forums, etc.
