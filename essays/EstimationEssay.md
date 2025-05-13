@@ -8,6 +8,7 @@ published: true
 labels:
   - Project estimation
   - Software Engineering
+  - Developement
 ---
 <img width="1200px" class="rounded float-center pe-4" src="../img/project-estimation.png">
 <br>
