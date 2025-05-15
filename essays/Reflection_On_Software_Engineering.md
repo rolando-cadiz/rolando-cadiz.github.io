@@ -3,41 +3,22 @@ layout: essay
 type: essay
 title: "Project Estimation: A Useful Skill For Success"
 # All dates must be YYYY-MM-DD format!
-date: 2025-04-15
+date: 2025-05-14
 published: true
 labels:
-  - Project estimation
+
   - Software Engineering
-  - Developement
+  - Development
+  - 
 ---
 <img width="1200px" class="rounded float-center pe-4" src="../img/project-estimation.png">
 <br>
-At UH Manoa, all students in ICS 314 are required to do a final project with their peers that involves the creation and deployment of a working website. 
-My group decided to work on a website called ArtHub that is designed to facillitate connections between artists as it can be quite difficult for those just geting started
-to share their works. As part of the final project, the group decided to estimate and track our coding and non-coding times. The benefit of doing so is that
-we get good idea of how much effort it will take to comeplete tasks, thus allowing for more efficient task assignments and overall completions.
 
-## Methods for making estimates
-Effort estimates were decided based on our individual skills. Group members chose tasks that they thought they could handle. Since much of the initial work was 
-just creating page mock-ups, something that we have been doing all semester, we related our previous WOD times to give us an idea of how long each mock-up would take.
+As I wrap up my junior year in the ICS program at UH Manoa, I can safely say that I finally understand what it means to be a software engineer. The ICS 314 class 'Software Engineering' was especially integral to realizing this. We learned many concepts, ranging from functional programming and coding standards to lesser-covered topics such as design patterns and agile project management. Software engineering is more than just writing code, it's using learned techniques to bring multiple pieces of a project together (including the code) efficiently and ethically. Two concepts I would like to talk about specifically that helped my understanding of software engineering are coding standards and user interface frameworks. 
 
-## Benefits of estimating
-One benefit I noticed when estimating the completion times for our tasks is that it allowed me some idea of how to structure my day. If I knew that it might take
-at minimum an hour to work on a feature then I could incorporate a block period where I work on that issue. Of course estimates are just that; an estimate. However, 
-time management is an important skill to have and even an estimatation is extremely useful when working on many things throughout the day.
+## Coding Standards
+With a small and simple software project, you could surely get away with bits of random spaghetti code (Spaghetti code - A term used for code that is messy and does not conform to any standards). This is especially true if you are going to be the only developer to ever touch the code. However, once a project begins to scale past a few files and is worked on by more than a few people, the need for enforced coding standards grows exponentially. Let's say Brian from the development team sends a seemingly working bundle of code over to John, who is on the testing team. John notices that there is a bug in the code, but when he tries to debug it, he begins having trouble understanding what exactly is going on. The code is a mess and hard to read! This is why coding standards on large-scale projects are imperative. To have coding standards is to be explicit, clear, and efficient in what you are creating. As a software engineer, much of the work you do will certainly be on enterprise software, and thus, you will work with many other engineers and have to read over not only your code but others' as well. 
 
-## Benefits of actual time tracking
-Tracking actual effort did come with a few benefits I think. For one, it gave us a reality check! As it turns out, creating a website from scratch and without
-instructions can be quite a monumental task. The bootstrap-React framework thankfully made it a little easier because of all the pre-made components but figuring
-out how best to structure the page for an optimal user experience is something I still need to work on. Second to that, tracking actual effort let us plan ahead
-for future tasks. Since the landing page for example took me a few hours in acuallity, I can now compare that to future tasks that are similar and plan accordingly.
+## User Interface Frameworks
+The second key concept I learned that helped in my understanding of what software engineering is is user interface frameworks. Frameworks in general are like toolkits for development. They include nearly all the necessary tools needed to bring a website to life and offer scalability as your project gets larger. Okay, so now you're probably thinking, "What part of what you just explained has anything to do with understanding software engineering?". Well, to be clear, it's less about what frameworks are and more about how and why they're used. As I mentioned earlier, software engineering is all about using techniques to bring multiple pieces of the pie together efficiently to create something amazing. In this instance, and continuing with the framework-toolkit analogy, why build a wrench when you can just pick one out of your toolkit? It was this concept that opened my eyes to not only how applications are built, but also provided the idea in my head that one should use all the tools available to them and not re-invent the wheel, so to speak.
 
-## Method for tracking our time
-When tracking either coding or non-coding effort, it was important for each of us to have a method we were comfortable with. I personally used the stopwatch
-timer on my phone to track both. Obviously some task issues couldn't be completed in one session and so when breaks were needed, I wrote down my stop time and when 
-I was ready to work again, I would start a new timer and add that to my previous stop time to get the sum total.
-
-## My takeaway from project estimation
-Overall, I would say it really doesn't take much to press the start button on a timer and the benefits of doing so are worth it. Doing this hasn't afftected
-me personally that much in terms of time usage. Again, all it takes is noting down your start/stop times. Now that I have an idea of how long certain tasks
-actually take, I implement a plan to comeplete my tasks more efficiently, although maybe not always faster.
