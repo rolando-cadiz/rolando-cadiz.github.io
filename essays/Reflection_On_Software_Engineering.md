@@ -11,7 +11,7 @@ labels:
   - Development
   - 
 ---
-<img width="1200px" class="rounded float-center pe-4" src="../img/software-engineering-(1).jpg">
+<img width="700px" class="rounded float-center pe-4" src="../img/software-engineering-(1).jpg">
 <br>
 
 As I wrap up my junior year in the ICS program at UH Manoa, I can safely say that I finally understand what it means to be a software engineer. The ICS 314 class 'Software Engineering' was especially integral to realizing this. We learned many concepts, ranging from functional programming and coding standards to lesser-covered topics such as design patterns and agile project management. Software engineering is more than just writing code, it's using learned techniques to bring multiple pieces of a project together (including the code) efficiently and ethically. Two concepts I would like to talk about specifically that helped my understanding of software engineering are coding standards and user interface frameworks. 
