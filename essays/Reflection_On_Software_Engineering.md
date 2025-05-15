@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Project Estimation: A Useful Skill For Success"
+title: "Reflection on Software Engineering: Two Seemingly Mundane Concepts That Helped My Understanding"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-14
 published: true
