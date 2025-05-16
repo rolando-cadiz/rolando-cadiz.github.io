@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hotelresized.jpg
+image: img/landingpage_final.png
 title: "ArtHub"
 date: 2025
 published: true
