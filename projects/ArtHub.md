@@ -22,7 +22,7 @@ sign up and then be able to create a profile. Through this profile, a user could
 Github pages: https://arthub-final-project.github.io/arthub.github.io/
 
 Vercel Deployment: https://vercel.com/jays-projects-2f307c71/arthub-314
-(if link does not work click here[https://arthub-314-cyan.vercel.app/])
+(if link does not work [click here](https://arthub-314-cyan.vercel.app/))
 
 
 Personal duties on this project included:
