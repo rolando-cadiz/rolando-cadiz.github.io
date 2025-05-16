@@ -19,9 +19,9 @@ ArtHub was an idea that came about after realizing there aren't many online appl
 The application is not only supposed to help artists get eyes on their pieces but also provide a secure portal for art transactions. A user would first
 sign up and then be able to create a profile. Through this profile, a user could showcase their 'Gallery', a sort of inventory of created/uploaded artworks.
 
-Github pages: (https://arthub-final-project.github.io/arthub.github.io/)
+[Github pages](https://arthub-final-project.github.io/arthub.github.io/)
 
-Vercel Deployment: (https://vercel.com/jays-projects-2f307c71/arthub-314)
+[Vercel Deployment](https://vercel.com/jays-projects-2f307c71/arthub-314)
 (if link does not work [click here](https://arthub-314-cyan.vercel.app/))
 
 
