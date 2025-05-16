@@ -17,7 +17,13 @@ summary: "An online web application created as part of my ICS 314 group project.
 
 ArtHub was an idea that came about after realizing there aren't many online applications that make it easy for artists to showcase their work. 
 The application is not only supposed to help artists get eyes on their pieces but also provide a secure portal for art transactions. A user would first
-sign up and then be able to create a profile. Through this profile, a user could showcase their 'Gallery'; a sort of inventory of created/uploaded art works.
+sign up and then be able to create a profile. Through this profile, a user could showcase their 'Gallery', a sort of inventory of created/uploaded artworks.
+
+Github pages: https://arthub-final-project.github.io/arthub.github.io/
+
+Vercel Deployment: https://vercel.com/jays-projects-2f307c71/arthub-314
+(if link does not work click here[https://arthub-314-cyan.vercel.app/])
+
 
 Personal duties on this project included:
 - Creating the main landing page of the site.
@@ -29,7 +35,7 @@ Personal duties on this project included:
 - Implementing 'Gallery card' functionality into the main landing page for a weekly artist showcase
   feature.
 
-- Dealing with various issues as they came up, mostly relating to database retreival bugs
+- Dealing with various issues as they came up, mostly relating to database retrieval bugs
 
 
 ## Source code for Gallery Card: 
