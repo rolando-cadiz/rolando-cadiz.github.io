@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "JavaScript", "TypeScript", "Python", "Bootstrap", "React", "Node.js", "Next.js", "HTML", "CSS", "PostgreSQL" ]
+      "keywords": [ "C", "C++", "Java", "JavaScript", "TypeScript", "Python", "Bootstrap", "React", "Node.js", "Next.js", "HTML", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
@@ -37,21 +37,24 @@
       "studyType": "B.S.",
       "startDate": "2022",
       "endDate": "Present",
-      "courses": [ "Data Structures and Algorithms", "Software Engineering"
+      "courses": [ "Data Structures and Algorithms", "Software Engineering", "Machine & Low-level Programming"
       ]
     }
   ],
   "work": [
     {
       "company": "Tanaka of Tokyo",
-      "position": "Busser",
+      "position": "Server/Busser/Cashier",
       "website": "",
       "startDate": "2022",
       "endDate": "Present",
-      "summary": "Clearing tables and supporting the server/chef staff",
+      "summary": "Tanaka of Tokyo is a teppanyaki restaurant in the heart of Waikiki, serving guests visiting Hawai'i from all over the world. I primarily serve and occasionally 
+      help buss tables and handle check/cash transactions for other servers.",
       "highlights": [
-        "Worked in a team of three to clear and reset tables in under one minute.",
-        "Communicated with the front staff team to coordinate strategies to maintain reservation times."
+        "Ensure high guest satisfaction while working in a fast-paced environment.",
+        "Communicate with the front staff team to coordinate strategies to maintain reservation times.",
+        "Handle cash and credit card transactions",
+        "Work in organized teams to clear and clean tables."
       ]
     },
     {
@@ -69,6 +72,18 @@
   ],
   "awards": [
     {
+      "title": "Hawai'i Veterans Memorial Undergraduate Scholarship",
+      "date": "25-26 School Year",
+      "awarder": "Hawai'i Veterans Memorial Fund",
+      "summary": "A merit-based scholarship for students who demonstrate financial need and who maintain a GPA of 2.5 or higher"
+    },
+        {
+      "title": "Chris and May Hui Scholarship Endowment",
+      "date": "25-26 School Year",
+      "awarder": "Chris/May Hui",
+      "summary": "A merit-based scholarship for students who maintain a GPA of 3.0 or higher"
+    },
+        {
       "title": "CNS Native Hawaiian Scholarship",
       "date": "24-25 School Year",
       "awarder": "College of Natural Sciences",
