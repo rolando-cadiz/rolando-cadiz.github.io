@@ -9,7 +9,7 @@ labels:
 
   - Software Engineering
   - Development
-  - 
+    
 ---
 <img width="700px" class="rounded float-center pe-4" src="../img/software-engineering-(1).jpg">
 <br>
