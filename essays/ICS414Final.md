@@ -1,4 +1,3 @@
-
 ---
 layout: essay
 type: essay
@@ -11,6 +10,7 @@ labels:
   - Personal Growth
   - Full-Stack Development
 ---
+
 <img width="300px" class="rounded float-start pe-4" src="../img/sw-development-teams.png">
 
 ## Introduction
