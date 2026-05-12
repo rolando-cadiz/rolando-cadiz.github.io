@@ -4,7 +4,7 @@ type: project
 image: img/uhband.png
 title: "Trumpet Quartet Arrangement of Rainbow Closer"
 date: 2024
-published: true
+published: false
 labels:
   - Music
   - Arrangement
