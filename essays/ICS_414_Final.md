@@ -5,7 +5,7 @@ type: essay
 title: "ICS 414 - Software Engineering II: Year-end Reflection"
 # All dates must be YYYY-MM-DD format!
 date: 2026-05-11
-published: false
+published: true
 labels:
   - Software Engineering
   - Personal Growth
