@@ -47,6 +47,4 @@ The biggest challenge I faced was time management. I had a personal goal of clos
 
 Overall, Shelf Awareness helped me grow as both a developer and a teammate. It gave me practical experience with collaborative software engineering and helped me understand how real web applications are built, debugged, and improved over time.
 
-## Source code for Recipe Rating Feature:
-
 ```
