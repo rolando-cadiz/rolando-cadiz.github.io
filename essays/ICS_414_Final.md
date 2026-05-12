@@ -8,9 +8,10 @@ date: 2026-05-11
 published: false
 labels:
   - Software Engineering
-  - 
+  - Personal Growth
+  - Full-Stack Development
 ---
-<img width="300px" class="rounded float-start pe-4" src="../img/UIUX.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/sw-development-teams.png">
 
 ## Introduction
 My experience in ICS 414 was one of the most practical and valuable parts of my computer science education so far. Unlike many programming assignments that focus on isolated concepts, ICS 414 gave me the opportunity to work on a larger software project with a team. Because of this experience, I gained a much better understanding of what it means to build software beyond simply writing code.
